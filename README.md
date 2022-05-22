@@ -1,5 +1,5 @@
 # feather-bot
-
+## this is minimized for comedic value btw
 
 idk feather invite bot thats useless
 
